@@ -1,2 +1,4 @@
 This is branch1  and wee need to commit.
 This is my fiel1 for lloking merge confllict.
+This is branch1  and wee need to commit
+This is for modifying the data
